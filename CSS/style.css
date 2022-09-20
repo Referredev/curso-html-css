@@ -72,16 +72,18 @@ div{
 h1{
     color: #0ABEB0;
     font-size: 35px;
-    font-family: "Press Start 2P";
+    font-family: "Press Start 2P", sans-serif;;
     padding-top: 45px;
     padding-bottom: 35px;
     text-align: center;
+    text-shadow: 4px 4px 0px #000;
 }
 
 h2{
     color: #fff;
     font-size: 25px;
-    font-family: "Press Start 2P";
+    font-family: "Press Start 2P", sans-serif;
     padding-bottom: 45px;
     text-align: center;
+    text-shadow: 4px 4px 0px #000;
 }
