@@ -1,7 +1,7 @@
-.skills{
+.section{
     background-color: #0ABEB0;
-    background-size: 100%;
-    height: 800px;
+    padding-top: 50px;
+    padding-bottom: 100px;
     border-bottom: 10px solid #7C5E99;
 }
 
